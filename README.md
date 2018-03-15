@@ -2,3 +2,5 @@
 GitHub education repository of spring 2018 semester.
 
 Week 2 : Branch practice
+
+See you soon!
