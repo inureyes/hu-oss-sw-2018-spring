@@ -9,7 +9,7 @@ Week 2 : branch master with test_2
 ### 10:00~11:00 class
 | OSS frontend framework | Members |
 |------------------------|---------|
-| Bootstrap               | 최하은, 오유림  |
+| Bootstrap               | 최하은, 오유림 |
 
 ### 11:00~12:00 class
 
