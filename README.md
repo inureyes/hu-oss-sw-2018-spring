@@ -12,4 +12,4 @@ Week 2 : branch master with test_2
 
 | OSS frontend framework | Members |
 |------------------------|---------|
-| Polymer                | JK1, Jk2, JK3, JK4|
+| AngularJS              | 이재희, 남윤재, 이현준, 문성인, 이제신|
