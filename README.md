@@ -1,6 +1,11 @@
 # hu-oss-sw-2018-spring
 GitHub education repository of spring 2018 semester.
 
+this is forked repo-Keunmo.
+=======
+# hu-oss-sw-2018-spring
+GitHub education repository of spring 2018 semester.
+
 
 Week 2 : branch master with test_2
 
@@ -10,9 +15,12 @@ Week 2 : branch master with test_2
 | OSS frontend framework | Members |
 |------------------------|---------|
 | Bootstrap              | 김윤기, 문기훈, 김태윤 |
+| example                | MB, GH  |
+| Bootstrap              | 문기훈,김윤기,김태윤|
+| Vue.js         | 구근모, 손민우, 유승찬  |
+| bootstrap		 |박온유, 조용일, 노건웅 |
 
 ### 11:00~12:00 class
-
 | OSS frontend framework | Members |
 |------------------------|---------|
 | Bootstrap             | 공태웅, 김도현, 김용준, 권영훈, 문제웅|
