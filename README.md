@@ -18,6 +18,8 @@ Week 2 : branch master with test_2
 | Bootstrap      | 문기훈,김윤기,김태윤|
 | Vue.js         | 구근모, 손민우, 유승찬  |
 | Polymer    		 |박온유, 조용일, 노건웅 |
+| Angular JS 		 |염지훈, 백채현, 강민성 |
+
 
 ### 11:00~12:00 class
 | OSS frontend framework | Members |
