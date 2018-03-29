@@ -9,7 +9,7 @@ Week 2 : branch master with test_2
 ### 10:00~11:00 class
 | OSS frontend framework | Members |
 |------------------------|---------|
-| example                | MB, GH  |
+| Bootstrap              | 김윤기, 문기훈, 김태윤 |
 
 ### 11:00~12:00 class
 
