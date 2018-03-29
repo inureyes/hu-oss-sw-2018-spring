@@ -13,3 +13,4 @@ Week 2 : branch master with test_2
 | OSS frontend framework | Members |
 |------------------------|---------|
 | Polymer                | JK1, Jk2, JK3, JK4|
+| Vue.js              | 주한새, 양재우, 김유신, 김재훈, 김태오|
