@@ -15,6 +15,7 @@ Week 2 : branch master with test_2
 | OSS frontend framework | Members |
 |------------------------|---------|
 | Vue.js         | 구근모, 손민우, 유승찬  |
+| bootstrap		 |박온유, 조용일, 노건웅 |
 
 ### 11:00~12:00 class
 
@@ -27,4 +28,3 @@ Week 2 : branch master with test_2
 | React                  | 서호진, 이혜진, 김성찬, 이국곤, 김민준|
 | Polymer                | 이재희, 남윤재, 이현준, 문성인, 이제신 |
 | Bootstrap | 강민석, 윤성호, 김다인, 이혜원, 김건기 |
->>>>>>> 6a94b8f05b41fac0704eba03f62e67710ac809cd
