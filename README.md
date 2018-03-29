@@ -13,4 +13,4 @@ Week 2 : branch master with test_2
 | OSS frontend framework | Members |
 |------------------------|---------|
 | Polymer                | JK1, Jk2, JK3, JK4|
-| Node.js | 이정인, 안진성, 이효빈, 박태완, 장원익 |
+| React | 이정인, 안진성, 이효빈, 박태완, 장원익 |
