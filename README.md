@@ -14,6 +14,7 @@ Week 2 : branch master with test_2
 ### 10:00~11:00 class
 | OSS frontend framework | Members |
 |------------------------|---------|
+| Bootstrap              | 김윤기, 문기훈, 김태윤 |
 | example                | MB, GH  |
 | Bootstrap              | 문기훈,김윤기,김태윤|
 | Vue.js         | 구근모, 손민우, 유승찬  |
