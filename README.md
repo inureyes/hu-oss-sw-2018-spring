@@ -7,6 +7,9 @@ Week 2 : branch master with test_2
 ## Week 3
 
 ### 10:00~11:00 class
+| OSS frontend framework | Members |
+|------------------------|---------|
+| example                | MB, GH  |
 
 ### 11:00~12:00 class
 
