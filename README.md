@@ -1,14 +1,15 @@
-﻿# hu-oss-sw-2018-spring
+# hu-oss-sw-2018-spring
 GitHub education repository of spring 2018 semester.
 
 this is forked repo-Keunmo.
-=======
 # hu-oss-sw-2018-spring
 GitHub education repository of spring 2018 semester.
 
 
 Week 2 : branch master with test_2
 
+See you soon!
+# commit testing
 ## Week 3
 
 ### 10:00~11:00 class
