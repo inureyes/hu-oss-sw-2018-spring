@@ -9,8 +9,8 @@ Week 2 : branch master with test_2
 ### 10:00~11:00 class
 | OSS frontend framework | Members |
 |------------------------|---------|
-| React          | 최하은, 오유림 |
-| Bootstrap      | 문기훈,김윤기,김태윤|
+| React          | 최하은, 오유림, 임정아 |
+| Bootstrap      | 문기훈, 김윤기, 김태윤|
 | Vue.js         | 구근모, 손민우, 유승찬  |
 | Polymer    		 |박온유, 조용일, 노건웅 |
 | Angular JS 		 |염지훈, 백채현, 강민성 |
